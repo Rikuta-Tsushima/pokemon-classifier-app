@@ -24,6 +24,6 @@ streamlit run main.py
 
 ---
 
-## 🖼 アプリ画面（例）
+## 🖼️ アプリ画面（例）
 
-![screenshot](screenshot.png)
+![screenshot](./screenshot.png)
