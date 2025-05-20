@@ -21,3 +21,9 @@
 ```bash
 pip install -r requirements.txt
 streamlit run main.py
+
+---
+
+## 🖼 アプリ画面（例）
+
+![screenshot](screenshot.png)
