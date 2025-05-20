@@ -22,8 +22,3 @@
 pip install -r requirements.txt
 streamlit run main.py
 
----
-
-## 🖼 アプリ画面（例）
-
-<img src="screenshot.png" alt="screenshot" width="600">
